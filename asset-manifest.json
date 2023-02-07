@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OISGRIP_Calci_App/static/css/main.190bd442.css",
+    "main.js": "/OISGRIP_Calci_App/static/js/main.2c32927d.js",
+    "index.html": "/OISGRIP_Calci_App/index.html",
+    "main.190bd442.css.map": "/OISGRIP_Calci_App/static/css/main.190bd442.css.map",
+    "main.2c32927d.js.map": "/OISGRIP_Calci_App/static/js/main.2c32927d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190bd442.css",
+    "static/js/main.2c32927d.js"
+  ]
+}
